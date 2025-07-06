@@ -1,0 +1,5 @@
+# Ignore folders with private data
+TrainingImages/
+Attendance/
+__pycache__/
+*.csv
